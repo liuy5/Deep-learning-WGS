@@ -1,4 +1,5 @@
-the project's goal is labeling Attention-deficit hyperactivity disorder (ADHD) patients based on Copy number variations from Whole Genome Sequencing data
-The data is come from dbGaP portal (access number phs001165)
+the project's goal is labeling Attention-deficit hyperactivity disorder (ADHD) patients based on Copy number variations (CNVs) from Whole Genome Sequencing (WGS) data
+The WGS data is come from dbGaP portal (access number phs001165)
+CNVs were obtained based on MANTA pipelines
 The model using sklearn MLP package
 The optimal parameters is determined by gp_minimize function with ranged parameter space
