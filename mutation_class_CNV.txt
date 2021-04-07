@@ -1,0 +1,12 @@
+exonicDel
+exonicDup
+exonicOthers
+intergenicDel
+intergenicDup
+intergenicOthers
+intronicDel
+intronicDup
+intronicOthers
+splicingDel
+splicingDup
+splicingOthers	
