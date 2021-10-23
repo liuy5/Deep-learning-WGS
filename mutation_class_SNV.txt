@@ -1,0 +1,7 @@
+nonsynonymousSNV
+frameshift
+streamUTR
+ncRNA
+intronicSNV
+intergenicSNV
+stop
